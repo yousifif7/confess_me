@@ -6,6 +6,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+About the project:
+Confess me : allows you send messages to anyone one, without exposing your ID, but in other hand you'll recieve message in the same way.
+Also has full CRUD functionality, and athentication secured system, which of course powerd by laravel
+
 
 ## About Laravel
 
